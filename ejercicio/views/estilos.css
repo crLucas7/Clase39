@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://st.depositphotos.com/1177973/1865/i/950/depositphotos_18659031-stock-photo-parcels-boxes-with-kraft-paper.jpg);
+}
+table{
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+   border:1px black solid;
+}
+h1{
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+td{
+    border:1px black solid;  
+}
